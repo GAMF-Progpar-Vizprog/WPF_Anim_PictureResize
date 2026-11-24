@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace PictureResize
+namespace WPF_Anim_PictureResize
 {
 	/// <summary>
 	/// Interaction logic for App.xaml
